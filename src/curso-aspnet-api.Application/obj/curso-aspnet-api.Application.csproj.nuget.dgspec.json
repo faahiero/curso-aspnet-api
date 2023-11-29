@@ -1,0 +1,374 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Application/curso-aspnet-api.Application.csproj": {}
+  },
+  "projects": {
+    "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Application/curso-aspnet-api.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Application/curso-aspnet-api.Application.csproj",
+        "projectName": "curso-aspnet-api.Application",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Application/curso-aspnet-api.Application.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/curso-aspnet-api.CrossCutting.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/curso-aspnet-api.CrossCutting.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/curso-aspnet-api.Data.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/curso-aspnet-api.Data.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Service/curso-aspnet-api.Service.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Service/curso-aspnet-api.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/curso-aspnet-api.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/curso-aspnet-api.CrossCutting.csproj",
+        "projectName": "curso-aspnet-api.CrossCutting",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/curso-aspnet-api.CrossCutting.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/curso-aspnet-api.Data.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/curso-aspnet-api.Data.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Service/curso-aspnet-api.Service.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Service/curso-aspnet-api.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/curso-aspnet-api.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/curso-aspnet-api.Data.csproj",
+        "projectName": "curso-aspnet-api.Data",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/curso-aspnet-api.Data.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj",
+        "projectName": "curso-aspnet-api.Domain",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Service/curso-aspnet-api.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Service/curso-aspnet-api.Service.csproj",
+        "projectName": "curso-aspnet-api.Service",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Service/curso-aspnet-api.Service.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/curso-aspnet-api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

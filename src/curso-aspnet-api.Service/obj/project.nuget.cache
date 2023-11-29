@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "omTW9bE1E6XXhN6ufz+HqGGUV53vIjgEfX8YsJisJ67Jk9JPgrHJ54EEBIpbljE2XvTlzohqlihoInDTPfY1oQ==",
+  "success": true,
+  "projectFilePath": "/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Service/curso-aspnet-api.Service.csproj",
+  "expectedPackageFiles": [
+    "/home/faahiero/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/microsoft.identitymodel.abstractions/7.0.3/microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.3/microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/microsoft.identitymodel.logging/7.0.3/microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/microsoft.identitymodel.tokens/7.0.3/microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/system.identitymodel.tokens.jwt/7.0.3/system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

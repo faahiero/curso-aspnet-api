@@ -1,0 +1,10 @@
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/bin/Debug/netcoreapp3.1/curso-aspnet-api.Domain.deps.json
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/bin/Debug/netcoreapp3.1/curso-aspnet-api.Domain.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/bin/Debug/netcoreapp3.1/curso-aspnet-api.Domain.pdb
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/obj/Debug/netcoreapp3.1/curso-aspnet-api.Domain.csproj.AssemblyReference.cache
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/obj/Debug/netcoreapp3.1/curso-aspnet-api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/obj/Debug/netcoreapp3.1/curso-aspnet-api.Domain.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/obj/Debug/netcoreapp3.1/curso-aspnet-api.Domain.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/obj/Debug/netcoreapp3.1/curso-aspnet-api.Domain.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/obj/Debug/netcoreapp3.1/curso-aspnet-api.Domain.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Domain/obj/Debug/netcoreapp3.1/curso-aspnet-api.Domain.pdb

@@ -1,0 +1,16 @@
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/bin/Debug/netcoreapp3.1/curso-aspnet-api.Data.deps.json
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/bin/Debug/netcoreapp3.1/curso-aspnet-api.Data.runtimeconfig.json
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/bin/Debug/netcoreapp3.1/curso-aspnet-api.Data.runtimeconfig.dev.json
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/bin/Debug/netcoreapp3.1/curso-aspnet-api.Data.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/bin/Debug/netcoreapp3.1/curso-aspnet-api.Data.pdb
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/bin/Debug/netcoreapp3.1/curso-aspnet-api.Domain.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/bin/Debug/netcoreapp3.1/curso-aspnet-api.Domain.pdb
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/Debug/netcoreapp3.1/curso-aspnet-api.Data.csproj.AssemblyReference.cache
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/Debug/netcoreapp3.1/curso-aspnet-api.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/Debug/netcoreapp3.1/curso-aspnet-api.Data.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/Debug/netcoreapp3.1/curso-aspnet-api.Data.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/Debug/netcoreapp3.1/curso-aspnet-api.Data.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/Debug/netcoreapp3.1/curso-aspnet-api.Data.csproj.CopyComplete
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/Debug/netcoreapp3.1/curso-aspnet-api.Data.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/Debug/netcoreapp3.1/curso-aspnet-api.Data.pdb
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data/obj/Debug/netcoreapp3.1/curso-aspnet-api.Data.genruntimeconfig.cache

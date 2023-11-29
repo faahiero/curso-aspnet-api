@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = curso_aspnet_api.Data.Test
+build_property.ProjectDir = /home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.Data.Test/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

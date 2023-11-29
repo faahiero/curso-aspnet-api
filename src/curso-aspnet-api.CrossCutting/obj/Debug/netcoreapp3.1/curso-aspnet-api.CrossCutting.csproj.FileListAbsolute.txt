@@ -1,0 +1,17 @@
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/bin/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.deps.json
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/bin/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/bin/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.pdb
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/bin/Debug/netcoreapp3.1/curso-aspnet-api.Data.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/bin/Debug/netcoreapp3.1/curso-aspnet-api.Domain.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/bin/Debug/netcoreapp3.1/curso-aspnet-api.Service.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/bin/Debug/netcoreapp3.1/curso-aspnet-api.Data.pdb
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/bin/Debug/netcoreapp3.1/curso-aspnet-api.Domain.pdb
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/bin/Debug/netcoreapp3.1/curso-aspnet-api.Service.pdb
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/obj/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.csproj.AssemblyReference.cache
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/obj/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/obj/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/obj/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/obj/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/obj/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.csproj.CopyComplete
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/obj/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.dll
+/home/faahiero/Documentos/Workspace/dotnet/curso-aspnet-api/src/curso-aspnet-api.CrossCutting/obj/Debug/netcoreapp3.1/curso-aspnet-api.CrossCutting.pdb
